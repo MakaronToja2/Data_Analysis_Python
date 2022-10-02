@@ -28,7 +28,7 @@ def draw_line_plot():
     # Save image and return fig (don't change this part)
     fig.savefig('line_plot.png')
     return fig
-
+draw_line_plot()
 
 def draw_bar_plot():
     # Copy and modify data for monthly bar plot
